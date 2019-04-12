@@ -1,0 +1,686 @@
+[
+    {
+      "name": "Energia",
+      "spent": 110,
+      "month": "Sep",
+      "year": 2017
+    },
+    {
+      "name": "Água",
+      "spent": 40,
+      "month": "Sep",
+      "year": 2017
+    },
+    {
+      "name": "Aluguel",
+      "spent": "1500.00",
+      "month": "Sep",
+      "year": 2017
+    },
+    {
+      "name": "Condomínio",
+      "spent": "600.00",
+      "month": "Sep",
+      "year": 2017
+    },
+    {
+      "name": "Super Mercado",
+      "spent": 120,
+      "month": "Sep",
+      "year": 2017
+    },
+    {
+      "name": "Lazer",
+      "spent": 398,
+      "month": "Sep",
+      "year": 2017
+    },
+    {
+      "name": "Energia",
+      "spent": 13,
+      "month": "Oct",
+      "year": 2017
+    },
+    {
+      "name": "Água",
+      "spent": 114,
+      "month": "Oct",
+      "year": 2017
+    },
+    {
+      "name": "Aluguel",
+      "spent": "1500.00",
+      "month": "Oct",
+      "year": 2017
+    },
+    {
+      "name": "Condomínio",
+      "spent": "600.00",
+      "month": "Oct",
+      "year": 2017
+    },
+    {
+      "name": "Super Mercado",
+      "spent": 308,
+      "month": "Oct",
+      "year": 2017
+    },
+    {
+      "name": "Lazer",
+      "spent": 1488,
+      "month": "Oct",
+      "year": 2017
+    },
+    {
+      "name": "Energia",
+      "spent": 18,
+      "month": "Nov",
+      "year": 2017
+    },
+    {
+      "name": "Água",
+      "spent": 62,
+      "month": "Nov",
+      "year": 2017
+    },
+    {
+      "name": "Aluguel",
+      "spent": "1500.00",
+      "month": "Nov",
+      "year": 2017
+    },
+    {
+      "name": "Condomínio",
+      "spent": "600.00",
+      "month": "Nov",
+      "year": 2017
+    },
+    {
+      "name": "Super Mercado",
+      "spent": 85,
+      "month": "Nov",
+      "year": 2017
+    },
+    {
+      "name": "Lazer",
+      "spent": 1329,
+      "month": "Nov",
+      "year": 2017
+    },
+    {
+      "name": "Energia",
+      "spent": 120,
+      "month": "Dec",
+      "year": 2017
+    },
+    {
+      "name": "Água",
+      "spent": 109,
+      "month": "Dec",
+      "year": 2017
+    },
+    {
+      "name": "Aluguel",
+      "spent": "1500.00",
+      "month": "Dec",
+      "year": 2017
+    },
+    {
+      "name": "Condomínio",
+      "spent": "600.00",
+      "month": "Dec",
+      "year": 2017
+    },
+    {
+      "name": "Super Mercado",
+      "spent": 609,
+      "month": "Dec",
+      "year": 2017
+    },
+    {
+      "name": "Lazer",
+      "spent": 1470,
+      "month": "Dec",
+      "year": 2017
+    },
+    {
+      "name": "Energia",
+      "spent": 120,
+      "month": "Jan",
+      "year": 2018
+    },
+    {
+      "name": "Água",
+      "spent": 53,
+      "month": "Jan",
+      "year": 2018
+    },
+    {
+      "name": "Aluguel",
+      "spent": "1500.00",
+      "month": "Jan",
+      "year": 2018
+    },
+    {
+      "name": "Condomínio",
+      "spent": "600.00",
+      "month": "Jan",
+      "year": 2018
+    },
+    {
+      "name": "Super Mercado",
+      "spent": 102,
+      "month": "Jan",
+      "year": 2018
+    },
+    {
+      "name": "Lazer",
+      "spent": 1101,
+      "month": "Jan",
+      "year": 2018
+    },
+    {
+      "name": "Energia",
+      "spent": 27,
+      "month": "Feb",
+      "year": 2018
+    },
+    {
+      "name": "Água",
+      "spent": 110,
+      "month": "Feb",
+      "year": 2018
+    },
+    {
+      "name": "Aluguel",
+      "spent": "1500.00",
+      "month": "Feb",
+      "year": 2018
+    },
+    {
+      "name": "Condomínio",
+      "spent": "600.00",
+      "month": "Feb",
+      "year": 2018
+    },
+    {
+      "name": "Super Mercado",
+      "spent": 577,
+      "month": "Feb",
+      "year": 2018
+    },
+    {
+      "name": "Lazer",
+      "spent": 1244,
+      "month": "Feb",
+      "year": 2018
+    },
+    {
+      "name": "Energia",
+      "spent": 145,
+      "month": "Mar",
+      "year": 2018
+    },
+    {
+      "name": "Água",
+      "spent": 140,
+      "month": "Mar",
+      "year": 2018
+    },
+    {
+      "name": "Aluguel",
+      "spent": "1500.00",
+      "month": "Mar",
+      "year": 2018
+    },
+    {
+      "name": "Condomínio",
+      "spent": "600.00",
+      "month": "Mar",
+      "year": 2018
+    },
+    {
+      "name": "Super Mercado",
+      "spent": 259,
+      "month": "Mar",
+      "year": 2018
+    },
+    {
+      "name": "Lazer",
+      "spent": 1421,
+      "month": "Mar",
+      "year": 2018
+    },
+    {
+      "name": "Energia",
+      "spent": 20,
+      "month": "Apr",
+      "year": 2018
+    },
+    {
+      "name": "Água",
+      "spent": 67,
+      "month": "Apr",
+      "year": 2018
+    },
+    {
+      "name": "Aluguel",
+      "spent": "1500.00",
+      "month": "Apr",
+      "year": 2018
+    },
+    {
+      "name": "Condomínio",
+      "spent": "600.00",
+      "month": "Apr",
+      "year": 2018
+    },
+    {
+      "name": "Super Mercado",
+      "spent": 428,
+      "month": "Apr",
+      "year": 2018
+    },
+    {
+      "name": "Lazer",
+      "spent": 687,
+      "month": "Apr",
+      "year": 2018
+    },
+    {
+      "name": "Energia",
+      "spent": 4,
+      "month": "May",
+      "year": 2018
+    },
+    {
+      "name": "Água",
+      "spent": 87,
+      "month": "May",
+      "year": 2018
+    },
+    {
+      "name": "Aluguel",
+      "spent": "1500.00",
+      "month": "May",
+      "year": 2018
+    },
+    {
+      "name": "Condomínio",
+      "spent": "600.00",
+      "month": "May",
+      "year": 2018
+    },
+    {
+      "name": "Super Mercado",
+      "spent": 639,
+      "month": "May",
+      "year": 2018
+    },
+    {
+      "name": "Lazer",
+      "spent": 1375,
+      "month": "May",
+      "year": 2018
+    },
+    {
+      "name": "Energia",
+      "spent": 103,
+      "month": "Jun",
+      "year": 2018
+    },
+    {
+      "name": "Água",
+      "spent": 27,
+      "month": "Jun",
+      "year": 2018
+    },
+    {
+      "name": "Aluguel",
+      "spent": "1500.00",
+      "month": "Jun",
+      "year": 2018
+    },
+    {
+      "name": "Condomínio",
+      "spent": "600.00",
+      "month": "Jun",
+      "year": 2018
+    },
+    {
+      "name": "Super Mercado",
+      "spent": 628,
+      "month": "Jun",
+      "year": 2018
+    },
+    {
+      "name": "Lazer",
+      "spent": 768,
+      "month": "Jun",
+      "year": 2018
+    },
+    {
+      "name": "Energia",
+      "spent": 135,
+      "month": "Jul",
+      "year": 2018
+    },
+    {
+      "name": "Água",
+      "spent": 12,
+      "month": "Jul",
+      "year": 2018
+    },
+    {
+      "name": "Aluguel",
+      "spent": "1500.00",
+      "month": "Jul",
+      "year": 2018
+    },
+    {
+      "name": "Condomínio",
+      "spent": "600.00",
+      "month": "Jul",
+      "year": 2018
+    },
+    {
+      "name": "Super Mercado",
+      "spent": 763,
+      "month": "Jul",
+      "year": 2018
+    },
+    {
+      "name": "Lazer",
+      "spent": 909,
+      "month": "Jul",
+      "year": 2018
+    },
+    {
+      "name": "Energia",
+      "spent": 35,
+      "month": "Aug",
+      "year": 2018
+    },
+    {
+      "name": "Água",
+      "spent": 27,
+      "month": "Aug",
+      "year": 2018
+    },
+    {
+      "name": "Aluguel",
+      "spent": "1500.00",
+      "month": "Aug",
+      "year": 2018
+    },
+    {
+      "name": "Condomínio",
+      "spent": "600.00",
+      "month": "Aug",
+      "year": 2018
+    },
+    {
+      "name": "Super Mercado",
+      "spent": 806,
+      "month": "Aug",
+      "year": 2018
+    },
+    {
+      "name": "Lazer",
+      "spent": 1194,
+      "month": "Aug",
+      "year": 2018
+    },
+    {
+      "name": "Energia",
+      "spent": 80,
+      "month": "Sep",
+      "year": 2018
+    },
+    {
+      "name": "Água",
+      "spent": 25,
+      "month": "Sep",
+      "year": 2018
+    },
+    {
+      "name": "Aluguel",
+      "spent": "1500.00",
+      "month": "Sep",
+      "year": 2018
+    },
+    {
+      "name": "Condomínio",
+      "spent": "600.00",
+      "month": "Sep",
+      "year": 2018
+    },
+    {
+      "name": "Super Mercado",
+      "spent": 206,
+      "month": "Sep",
+      "year": 2018
+    },
+    {
+      "name": "Lazer",
+      "spent": 432,
+      "month": "Sep",
+      "year": 2018
+    },
+    {
+      "name": "Energia",
+      "spent": 72,
+      "month": "Oct",
+      "year": 2018
+    },
+    {
+      "name": "Água",
+      "spent": 47,
+      "month": "Oct",
+      "year": 2018
+    },
+    {
+      "name": "Aluguel",
+      "spent": "1500.00",
+      "month": "Oct",
+      "year": 2018
+    },
+    {
+      "name": "Condomínio",
+      "spent": "600.00",
+      "month": "Oct",
+      "year": 2018
+    },
+    {
+      "name": "Super Mercado",
+      "spent": 354,
+      "month": "Oct",
+      "year": 2018
+    },
+    {
+      "name": "Lazer",
+      "spent": 86,
+      "month": "Oct",
+      "year": 2018
+    },
+    {
+      "name": "Energia",
+      "spent": 112,
+      "month": "Nov",
+      "year": 2018
+    },
+    {
+      "name": "Água",
+      "spent": 26,
+      "month": "Nov",
+      "year": 2018
+    },
+    {
+      "name": "Aluguel",
+      "spent": "1500.00",
+      "month": "Nov",
+      "year": 2018
+    },
+    {
+      "name": "Condomínio",
+      "spent": "600.00",
+      "month": "Nov",
+      "year": 2018
+    },
+    {
+      "name": "Super Mercado",
+      "spent": 951,
+      "month": "Nov",
+      "year": 2018
+    },
+    {
+      "name": "Lazer",
+      "spent": 1079,
+      "month": "Nov",
+      "year": 2018
+    },
+    {
+      "name": "Energia",
+      "spent": 93,
+      "month": "Dec",
+      "year": 2018
+    },
+    {
+      "name": "Água",
+      "spent": 18,
+      "month": "Dec",
+      "year": 2018
+    },
+    {
+      "name": "Aluguel",
+      "spent": "1500.00",
+      "month": "Dec",
+      "year": 2018
+    },
+    {
+      "name": "Condomínio",
+      "spent": "600.00",
+      "month": "Dec",
+      "year": 2018
+    },
+    {
+      "name": "Super Mercado",
+      "spent": 919,
+      "month": "Dec",
+      "year": 2018
+    },
+    {
+      "name": "Lazer",
+      "spent": 1212,
+      "month": "Dec",
+      "year": 2018
+    },
+    {
+      "name": "Energia",
+      "spent": 114,
+      "month": "Jan",
+      "year": 2019
+    },
+    {
+      "name": "Água",
+      "spent": 60,
+      "month": "Jan",
+      "year": 2019
+    },
+    {
+      "name": "Aluguel",
+      "spent": "1500.00",
+      "month": "Jan",
+      "year": 2019
+    },
+    {
+      "name": "Condomínio",
+      "spent": "600.00",
+      "month": "Jan",
+      "year": 2019
+    },
+    {
+      "name": "Super Mercado",
+      "spent": 596,
+      "month": "Jan",
+      "year": 2019
+    },
+    {
+      "name": "Lazer",
+      "spent": 371,
+      "month": "Jan",
+      "year": 2019
+    },
+    {
+      "name": "Energia",
+      "spent": 22,
+      "month": "Fev",
+      "year": 2019
+    },
+    {
+      "name": "Água",
+      "spent": 127,
+      "month": "Fev",
+      "year": 2019
+    },
+    {
+      "name": "Aluguel",
+      "spent": "1500.00",
+      "month": "Fev",
+      "year": 2019
+    },
+    {
+      "name": "Condomínio",
+      "spent": "600.00",
+      "month": "Fev",
+      "year": 2019
+    },
+    {
+      "name": "Super Mercado",
+      "spent": 450,
+      "month": "Fev",
+      "year": 2019
+    },
+    {
+      "name": "Lazer",
+      "spent": 378,
+      "month": "Fev",
+      "year": 2019
+    },
+    {
+      "name": "Energia",
+      "spent": 100,
+      "month": "Mar",
+      "year": 2019
+    },
+    {
+      "name": "Água",
+      "spent": 15,
+      "month": "Mar",
+      "year": 2019
+    },
+    {
+      "name": "Aluguel",
+      "spent": "1500.00",
+      "month": "Mar",
+      "year": 2019
+    },
+    {
+      "name": "Condomínio",
+      "spent": "600.00",
+      "month": "Mar",
+      "year": 2019
+    },
+    {
+      "name": "Super Mercado",
+      "spent": 929,
+      "month": "Mar",
+      "year": 2019
+    },
+    {
+      "name": "Lazer",
+      "spent": 1041,
+      "month": "Mar",
+      "year": 2019
+    }
+  ]

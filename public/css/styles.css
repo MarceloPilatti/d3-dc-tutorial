@@ -1,0 +1,71 @@
+/* cSSChart */
+.chart {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: flex-end;
+    border: 1px solid #ccc;
+    width: 50%
+}
+.chart div{
+    text-align: center;
+    background-color: coral;
+    opacity: .8;
+    margin: 10px;
+    padding: 5px;
+    width: 30px;
+    color: #000;
+    font-weight: bold;
+    border: 1px solid darkgrey
+}
+.chart div:hover{
+    opacity: 1;
+    cursor: pointer
+}
+
+/* dCChart */
+.donut-chart{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    border-bottom: 1px solid #ccc;
+    padding: 30px;
+}
+
+.bar-chart{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.bar-chart div{
+    border-bottom: 1px solid #ccc;
+    padding: 30px;
+}
+
+
+/* sVGChart */
+.bar {
+    fill: steelblue;
+    opacity: 0.8;
+}
+  
+.bar:hover {
+    cursor: pointer;
+    opacity: 1;
+}
+
+.axis--x path {
+    display: none;
+}
+
+.text{
+    text-align: center;
+    font-size: 40px;
+    text-transform: uppercase;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px
+}
