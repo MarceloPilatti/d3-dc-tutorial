@@ -1,4 +1,4 @@
-# D3.js and D3.js tutorial
+# D3.js and DC.js tutorial
 
 This is an introductory tutorial of D3.js and DC.js libraries.
 
